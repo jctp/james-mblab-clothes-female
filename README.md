@@ -31,8 +31,8 @@ Download the .zip file and unpack in a suitable location. To add an item of clot
 These assets are (as of April 2021) in an extremely early stage of development. Current issues are as follows:
 
 - Some clothing items (particularly those which are not derived from MB-Labs meshes) suffer from poor topology. I am a rank amateur in this area and this project is, in part, a learning exercise. While functional, they will need cleaning up.
-- The pack currently cannot be used with the internal MB-Labs library function; assets must be appended using Blender.
-- Assets cannot currently be applied to male meshes.
+- The pack currently cannot be used with the internal MB-Labs library function; assets must be appended to your scene using Blender.
+- Assets cannot currently be applied to male meshes using the proxy system. You are however free to modify them to fit a male base mesh as you wish.
 
 Happy Blending! :)
 JCTP
