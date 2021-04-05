@@ -45,6 +45,7 @@ Skirts are static objects; cloth physics can be used to create a more realistic 
 <img src="https://raw.githubusercontent.com/jctp/james-mblab-clothes-female/main/Images/Previews/Bikini%20Var%2001.png?raw=true" width="200">
 <b>Bikini & Rubber Flip-flops (Sandals)</b><br>
 Top and bottom can be added separately, as can the rubber flip-flops.
+<br>
 
 <br>
 <img src="https://github.com/jctp/james-mblab-clothes-female/blob/main/Images/Previews/Leotard%20Var%2001.png?raw=true" width="200">
