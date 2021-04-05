@@ -14,6 +14,11 @@ This is important to note if you intend to use these assets in, for example, a g
 
 For the full and official legal text of the MB-Lab project, which this project inherits, see [here](https://github.com/animate1978/MB-Lab/blob/master/license.txt).
 
+## Credits
+Some materials come by way of the utterly brilliant https://cc0textures.com/, which provides extremely high-quality PBR materials without usage restrictions and is an absolutely indispensible part of any CGI artist's toolbox.
+
+Patterns come from CC0/public domain sources found around the internet. Whilst I believe in good faith that they are indeed public domain, they are user-submitted content and as with any such content sadly run the risk of having been fraudently uploaded under an open licence without any authority to do so. If this has happened to any of the patterns used in this project and you are or represent the copyright owner, please let me know **immediately** so we can correct the issue.
+
 # Package Contents
 To see the contents of this package, see Contents.txt.
 
