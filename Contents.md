@@ -58,3 +58,10 @@ Top and bottom can be added separately, as can the rubber flip-flops.
 <br>
 <img src="https://github.com/jctp/james-mblab-clothes-female/blob/main/Images/Previews/Leotard%20Var%2003.png?raw=true" width="200">
 <b>One-piece swimsuit (Variation 3)</b><br>
+
+<h2>Underwear</h2>
+
+<img src="https://github.com/jctp/james-mblab-clothes-female/blob/main/Images/Previews/Lingerie%20Var%2001.png?raw=true" width="200">
+<b>Lingerie</b><br>
+Top and bottom can be added separately.
+<br>
