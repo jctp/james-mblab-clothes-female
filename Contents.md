@@ -14,11 +14,13 @@ Click on the images for a full-scale preview.
 <img src="https://github.com/jctp/james-mblab-clothes-female/blob/main/Images/Previews/Jeans%20Var%2001.png" width="200">
 <b>Jeans (Skinny Cut)</b><br>
 Belt (with loops) is a separate object and can be added or skipped as required.
+<br>
 
 <br>
 <img src="https://github.com/jctp/james-mblab-clothes-female/blob/main/Images/Previews/Long%20Skirt%20Var%2001.png?raw=true" width="200">
 <b>Long skirt (Variation 1)</b><br>
 Skirts are static objects; cloth physics can be used to create a more realistic look with your character's pose (weight vertex pinning around the top, applied subdivision to the skirt mesh, and small-as-possible collision distances (0.001m) works best, after applying proxy modifiers for static renders.
+<br>
 
 <br>
 <img src="https://github.com/jctp/james-mblab-clothes-female/blob/main/Images/Previews/Long%20Skirt%20Var%2002.png?raw=true" width="200">
