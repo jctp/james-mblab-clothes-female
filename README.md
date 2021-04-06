@@ -39,9 +39,7 @@ These assets are (as of April 2021) in an extremely early stage of development. 
 Wonderful! If you wish to join in as a contributor to this project, please email me at the address in my GitHub profile with a link to some of your work. If I take on any additional contributors I will be happy to change the project's name to reflect that.
 
 # Updates
-### Version 0.1 (April 6th, 2021)
-- Initial alpha release!
-- All items are currently in a **very early state**; while they are functional, many lack fine detail (or even some broad detail) and are not PBR-mapped. Topology may also be haphazard.
+**See releases tab (right) for the latest updates.**
 
 Happy Blending! :)
 JCTP
