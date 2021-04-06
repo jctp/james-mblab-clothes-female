@@ -23,16 +23,23 @@ Patterns come from CC0/public domain sources found around the internet. Whilst I
 To see the contents of this package, see Contents.txt.
 
 # Download
-**DOWNLOAD LINK TO BE ADDED SHORTLY**
+**Download the package using the .zip option under the green Code button, or clone using git.**
 
-Download the .zip file and unpack in a suitable location. To add an item of clothing to your scene, use the append option under File in Blender and select from the Objects category. Textures are provided in PNG and GIMP XCF files for modification if required.
+Download the .zip file and unpack in a suitable location. To add an item of clothing to your scene, use the append option under File in Blender and select from the Objects category. Textures are packed in the main .blend file but are provided in PNG and GIMP XCF files for modification if required.
 
 # Current Issues
 These assets are (as of April 2021) in an extremely early stage of development. Current issues are as follows:
 
-- Some clothing items (particularly those which are not derived from MB-Labs meshes) suffer from poor topology. I am a rank amateur in this area and this project is, in part, a learning exercise. While functional, they will need cleaning up.
+- Some clothing items (particularly those which are not derived from MB-Labs meshes) suffer from poor topology. I am a rank amateur in this area and this project is, in part, a learning exercise. While functional, they will need cleaning up as the project evolves.
 - The pack currently cannot be used with the internal MB-Labs library function; assets must be appended to your scene using Blender.
 - Assets cannot currently be applied to male meshes using the proxy system. You are however free to modify them to fit a male base mesh as you wish.
+- Some extreme poses cause items of clothing to bunch up or clip through the skin. This is related to the aforementioned topology. Clipping is best fixed by gently tweaking the mesh with the sculpt tool or, in the case of skintight clothing, using the shrinkwrap modifier. MB-Lab has a feature which removes topology under clothing in order to fix clipping; this will work for most items of clothing but not those that use alpha mapping.
+
+# I want to help!
+Wonderful! If you wish to join in as a contributor to this project, please email me at the address in my GitHub profile with a link to some of your work. If I take on any additional contributors I will be happy to change the project's name to reflect that. I am particularly seeking somebody to help with topology.
+
+# Updates
+**See releases tab (right) for the latest updates.**
 
 Happy Blending! :)
 JCTP
