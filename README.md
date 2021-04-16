@@ -41,6 +41,14 @@ Wonderful! If you wish to join in as a contributor to this project, please email
 # Updates
 **See releases tab (right) for the latest updates.**
 
+## Coming soon (April 16th 2021)
+Work-in-progress additions are:
+- A long dress, suitable for physics simulation
+- A thick jacket
+- Underwear
+
+These will be in the next release.
+
 Happy Blending! :)
 JCTP
 
